@@ -8,7 +8,9 @@ An Application Programming Interface (API) allows pieces of code to interact wit
 An API typically has three core elements:
 
 Access: Who is the user accessing the service?
+
 Request: What is the service or data being requested? This includes both methods (what questions do you need answered with the data or service solicited?) and parameters (supplementary details).
+
 Response: How does the system respond to the request?
 
 
